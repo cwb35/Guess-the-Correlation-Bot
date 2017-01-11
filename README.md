@@ -15,14 +15,14 @@ pyautogui, and scipy
 The code is run through the command line, like so:
 
 ```
-python GuessCorrelationBot.py <num iterations> <topleft x-coordinate> <topleft y-coordinate> <bottomright x-coordinate>     <bottomright y-coordinate> -get_coords <True|False>
+python GuessCorrelationBot.py <n> <TL x-coordinate> <TL y-coordinate> <BR x-coordinate> <BR y-coordinate> -get_coords <True|False>
 ```
 
-  * __num iterations__ - How many times you want the code to loop for (integer)
-  * __topleft x-coordinate__ - Top Left x-coordinate of gameboard
-  * __topleft y-coordinate__ - Top Left y-coordinate of gameboard
-  * __bottomright x-coordinate__ - Bottom Right x-coordinate of gameboard
-  * __bottomright x-coordinate__ - Bottom Right y-coordinate of gameboard
+  * __n__ - How many times you want the code to loop for (integer)
+  * __TL x-coordinate__ - Top Left x-coordinate of gameboard
+  * __TL y-coordinate__ - Top Left y-coordinate of gameboard
+  * __BR x-coordinate__ - Bottom Right x-coordinate of gameboard
+  * __BR x-coordinate__ - Bottom Right y-coordinate of gameboard
   * __-get_coords__ - optional argument for getting coordinates on the screen, if set to True code doesn't run and instead coordinates of current mouse location is output to console instead
   
 For a simple demonstration of how to run the code, look to the youtube video below.
