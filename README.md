@@ -14,7 +14,8 @@ pyautogui, and scipy
 
 The code is run through the command line, like so:
 
-```python GuessCorrelationBot.py <num iterations> <topleft x-coordinate> <topleft y-coordinate> <bottomright x-coordinate> <bottomright y-coordinate> -get_coords <True|False>```
+```python GuessCorrelationBot.py <num iterations> <topleft x-coordinate> <topleft y-coordinate> <bottomright x-coordinate>     <bottomright y-coordinate> -get_coords <True|False>
+```
 
   * __num iterations__ - How many times you want the code to loop for (integer)
   * __topleft x-coordinate__ - Top Left x-coordinate of gameboard
