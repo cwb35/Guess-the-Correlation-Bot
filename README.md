@@ -14,4 +14,4 @@ The following is a demonstration of the bot running for 10 iterations.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mTJd5CriBSk
 " target="_blank"><img src="http://img.youtube.com/vi/mTJd5CriBSk/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Click Here for Video Demonstration" width="240" height="180" border="10" /></a>
