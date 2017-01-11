@@ -8,14 +8,15 @@ The bot works by scanning the screen for the points, adding their coordinates to
 
 ## Requirements
 
-pyautogui, and scipy
+  * [pyautogui](https://pyautogui.readthedocs.io/en/latest/)
+  * [scipy](https://www.scipy.org/)
 
 ## How to Run
 
 The code is run through the command line, like so:
 
 ```
-python GuessCorrelationBot.py <n> <TL x-coordinate> <TL y-coordinate> <BR x-coordinate> <BR y-coordinate> -get_coords <True|False>
+python GuessCorrelationBot.py <n> <TL x-coord> <TL y-coord> <BR x-coord> <BR y-coord> -get_coords <True|False>
 ```
 
   * __n__ - How many times you want the code to loop for (integer)
